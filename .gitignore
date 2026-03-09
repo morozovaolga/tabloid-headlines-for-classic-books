@@ -11,5 +11,14 @@ env/
 .vscode/
 
 *.log
-
+*.jsonl
+*.json
+*.txt
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.doc
 .DS_Store
+
+archive/
